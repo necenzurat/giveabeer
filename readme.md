@@ -9,7 +9,8 @@ The source code from giveabeer.com
 
 ## Base Idea
 
-Make an account and then start reciving beer money in it. 
+Make an account and then start reciving beer money in it.
+
 Demo landing page for _"username"_ account: http://giveabeer.com/username
 
 ## Todo
