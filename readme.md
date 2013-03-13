@@ -1,6 +1,3 @@
-![Give a Beer](http://giveabeer.com/gfx/giveabeer.png)
-
-
 # [Give A Beer](http://giveabeer.com/ "Beer") source code
 
 ## Description
